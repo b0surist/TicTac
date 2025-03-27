@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Board from './components/Board.vue'
+import Board from './components/TicTacBoard.vue'
 
 export default {
   name: 'App',
