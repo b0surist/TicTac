@@ -1,12 +1,12 @@
 <template>
-  <Board />
+  <BoardGame />
 </template>
 
 <script>
-import Board from './components/TicTacBoard.vue'
+import BoardGame from './components/TicTacBoard.vue'
 
 export default {
   name: 'App',
-  components: { Board }
+  components: { BoardGame }
 }
 </script>
