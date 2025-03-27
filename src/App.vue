@@ -5,7 +5,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import "bootstrap/dist/css/bootstrap.css"
 export default {
   name: 'App',
   components: {
